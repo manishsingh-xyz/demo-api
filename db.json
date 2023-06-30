@@ -1,32 +1,59 @@
-[
-    {
-        "name": "Harsh Vardhan",
-        "address": "sector 1",
-        "clinic": "A Clinic"
-    },
-    {
-        "name": "Manish Singh",
-        "address": "sector 2",
-        "clinic": "B Clinic"
-    },
-    {
-        "name": "John wick",
-        "address": "sector 3",
-        "clinic": "C Clinic"
-    },
-    {
-        "name": "John Cena",
-        "address": "sector 4",
-        "clinic": "D Clinic"
-    },
-    {
-        "name": "Jon Snow",
-        "address": "sector 5",
-        "clinic": "E Clinic"
-    },
-    {
-        "name": "Robb Stark",
-        "address": "sector 6",
-        "clinic": "F Clinic"
+{
+    "patients": [
+        {
+            "name": "Harsh Vardhan",
+            "address": "sector 1",
+            "clinic": "A Clinic"
+        },
+        {
+            "name": "Manish Singh",
+            "address": "sector 2",
+            "clinic": "B Clinic"
+        },
+        {
+            "name": "John wick",
+            "address": "sector 3",
+            "clinic": "C Clinic"
+        },
+        {
+            "name": "John Cena",
+            "address": "sector 4",
+            "clinic": "D Clinic"
+        },
+        {
+            "name": "Jon Snow",
+            "address": "sector 5",
+            "clinic": "E Clinic"
+        },
+        {
+            "name": "Robb Stark",
+            "address": "sector 6",
+            "clinic": "F Clinic"
+        }
+    ],
+    "clinics": [
+      {
+        "id": 1,
+        "clinic_name": "A Clinic"
+      },
+      {
+        "id": 2,
+        "clinic_name": "B Clinic"
+      },
+      {
+        "id": 3,
+        "clinic_name": "C Clinic"
+      },
+      {
+        "id": 4,
+        "clinic_name": "D Clinic"
+      },
+      {
+        "id": 15,
+        "clinic_name": "E Clinic"
+      }
+    ],
+    "profile": {
+      "name": "Manish Singh"
     }
-]
+  }
